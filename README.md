@@ -81,6 +81,4 @@ python motion_detection.py
 
 ## License
 
-This project is licensed under the MIT License.  
-
-> **Important:** Do not include sensitive credentials (such as MQTT passwords) in public repositories.
+This project is licensed under the MIT License.
